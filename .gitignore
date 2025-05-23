@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+
+# oth
+.DS_Store
+data/par3.pkl
+wandb/
+
+
+
+
